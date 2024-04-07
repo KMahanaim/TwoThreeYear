@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{145A372E-407A-4F86-B71E-4C8CAFDB3889}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TwoThreeYear",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
